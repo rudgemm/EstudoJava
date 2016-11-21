@@ -20,8 +20,8 @@ public class CarrinhoDeCompras {
 		return total;
 	}
 	
-	public Produto getProduto() {
-		return produtos;
+	public Produto[] getProduto() {
+		return this.produtos;
 	}
 
 	
